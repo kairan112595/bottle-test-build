@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff866a3e.css",
-    "main.js": "/static/js/main.781b9605.js",
+    "main.css": "/static/css/main.908cc1ce.css",
+    "main.js": "/static/js/main.6ecd308f.js",
     "static/media/bottle.glb": "/static/media/bottle.f185aba169506dc8014f.glb",
     "static/media/bottle-custom.FBX": "/static/media/bottle-custom.8913a998319e340ea4df.FBX",
     "static/media/pano-sky.jpg": "/static/media/pano-sky.6dea74b438169e178d83.jpg",
@@ -15,11 +15,11 @@
     "static/media/brand.jpg": "/static/media/brand.23dba5d94d8bbf532191.jpg",
     "static/media/ground.JPG": "/static/media/ground.5a0f8a17f65f83e226ef.JPG",
     "index.html": "/index.html",
-    "main.ff866a3e.css.map": "/static/css/main.ff866a3e.css.map",
-    "main.781b9605.js.map": "/static/js/main.781b9605.js.map"
+    "main.908cc1ce.css.map": "/static/css/main.908cc1ce.css.map",
+    "main.6ecd308f.js.map": "/static/js/main.6ecd308f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff866a3e.css",
-    "static/js/main.781b9605.js"
+    "static/css/main.908cc1ce.css",
+    "static/js/main.6ecd308f.js"
   ]
 }
